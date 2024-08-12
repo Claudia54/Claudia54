@@ -27,6 +27,26 @@ Here are some of the key projects I worked on during my Bachelor's degree:
 - [RASBET](https://github.com/Claudia54/RASBET)
 - [SocialHub](https://github.com/Claudia54/SocialHub)
 
+## Skills and Technologies
+
+Here’s a summary of the languages I've worked with:
+
+- **Languages:** 
+  - JavaScript
+  - Java
+  - Python
+  - C
+  - Prolog
+  - Haskell
+    
+- **Technologies and Tools:**
+  - Panda, Tensorflow and SciPy
+  - TLA+
+  - Lark
+  - Web Development (HMTL and CSS)
+  - Coq
+  - SQLite, MySQL
+
 ## GitHub Statistics
 
 ### Top Languages
