@@ -19,5 +19,13 @@ Here are some of the key projects I worked on during my Bachelor's degree:
   
  **Master's Degree** (in progress): Software Engineering, University of Minho
 
+ Here are some of the projects from my Master's studies:
+
+- [RPWK](https://github.com/Claudia54/RPWK) 
+- [ASCN-Grupo16](https://github.com/Claudia54/ASCN-Grupo16) 
+- [Machine Learning](https://github.com/Claudia54/MachineLearning) 
+- [RASBET](https://github.com/Claudia54/RASBET)
+- [SocialHub](https://github.com/Claudia54/SocialHub) 
+
 Thank you for visiting my profile!
 
