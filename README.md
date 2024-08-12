@@ -1,16 +1,14 @@
 ## Hi there 👋
+Welcome to my GitHub profile!
 
-<!--
-**Claudia54/Claudia54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I hold a Bachelor's degree in Software Engineering and am currently completing my Master's degree in Computer Engineering at the University of Minho. My specialization is in **Grammar Engineering** and **Formal Methods**, and my thesis focuses on **Artificial Intelligence**.
 
-Here are some ideas to get you started:
+Feel free to explore my repositories to see my projects and contributions. If you have any questions or would like to connect, don't hesitate to reach out!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+- **Bachelor's Degree**: Software Engineering
+- **Master's Degree** (in progress): Software Engineering, University of Minho
+
+Thank you for visiting my profile!
+
