@@ -25,7 +25,22 @@ Here are some of the key projects I worked on during my Bachelor's degree:
 - [Cloud Computing Applications and Services](https://github.com/Claudia54/ASCN-Grupo16) 
 - [Machine Learning](https://github.com/Claudia54/MachineLearning) 
 - [RASBET](https://github.com/Claudia54/RASBET)
-- [SocialHub](https://github.com/Claudia54/SocialHub) 
+- [SocialHub](https://github.com/Claudia54/SocialHub)
+
+## GitHub Statistics
+
+### GitHub Readme Stats
+
+![Claudia54's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Claudia54&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=github_dark)
+
+### Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Claudia54&layout=compact&hide_border=true&theme=github_dark)
+
+### Wakatime Stats (if available)
+
+![Claudia's Wakatime Stats](https://wakatime.com/badge/user/your-wakatime-username.svg)
+
 
 Thank you for visiting my profile!
 
