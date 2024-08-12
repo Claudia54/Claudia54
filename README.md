@@ -10,12 +10,12 @@ Feel free to explore my repositories to see my projects and contributions. If yo
 
 Here are some of the key projects I worked on during my Bachelor's degree:
 
-- [Prolog- Artificial Intelligence](https://github.com/Claudia54/Prolog-AI)
-- [Natural Language Processing](https://github.com/Claudia54/PL)
-- [Data Communication (Shafa)](https://github.com/Claudia54/Shafa)
-- [Program Calculation](https://github.com/Claudia54/CP)
-- [Operating Systems](https://github.com/Claudia54/OperatingSystems/tree/main)
-- [Object-Oriented Programming](https://github.com/Claudia54/Object-Oriented-Programming)
+- [Artificial Intelligence](https://github.com/Claudia54/Prolog-AI) (in Prolog)
+- [Natural Language Processing](https://github.com/Claudia54/PL) (in Python)
+- [Data Communication (Shafa)](https://github.com/Claudia54/Shafa) (in Java)
+- [Program Calculation](https://github.com/Claudia54/CP) (in Haskell)
+- [Operating Systems](https://github.com/Claudia54/OperatingSystems/tree/main) (in C)
+- [Object-Oriented Programming](https://github.com/Claudia54/Object-Oriented-Programming) (in Java)
   
  **Master's Degree** (in progress): Software Engineering, University of Minho
 
