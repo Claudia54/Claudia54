@@ -21,7 +21,7 @@ Here are some of the key projects I worked on during my Bachelor's degree:
  Here are some of the projects from my Master's studies:
 
 - [Web Knowledge Representation and Processing]([https://github.com/Claudia54/RPWK](https://github.com/Claudia54/Web-Knowledge-Representation-and-Processing)) 
-- [ASCN-Grupo16](https://github.com/Claudia54/ASCN-Grupo16) 
+- [Cloud Computing Applications and Services](https://github.com/Claudia54/ASCN-Grupo16) 
 - [Machine Learning](https://github.com/Claudia54/MachineLearning) 
 - [RASBET](https://github.com/Claudia54/RASBET)
 - [SocialHub](https://github.com/Claudia54/SocialHub) 
