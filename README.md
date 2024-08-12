@@ -53,6 +53,9 @@ Here’s a summary of some the languages and technologies and tools I've worked 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Claudia54&layout=compact&hide_border=true&theme=github_dark)
 
+## Connect with Me
 
+- [LinkedIn](https://www.linkedin.com/in/claudia54/)
+ 
 Thank you for visiting my profile!
 
