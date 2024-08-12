@@ -6,7 +6,7 @@ Feel free to explore my repositories to see my projects and contributions. If yo
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/claudia-silva-037a362b5)
+- [LinkedIn](https://www.linkedin.com/in/cláudia-silva-037a362b5)
 
  
 
