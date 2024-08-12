@@ -29,7 +29,7 @@ Here are some of the key projects I worked on during my Bachelor's degree:
 
 ## Skills and Technologies
 
-Here’s a summary of the languages I've worked with:
+Here’s a summary of some the languages and technologies and tools I've worked with:
 
 - **Languages:** 
   - JavaScript
