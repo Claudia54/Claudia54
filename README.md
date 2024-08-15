@@ -18,7 +18,6 @@ Here are some of the key projects I worked on during my Bachelor's degree:
 
 - [Prolog- Artificial Intelligence](https://github.com/Claudia54/Prolog-AI) 
 - [Natural Language Processing](https://github.com/Claudia54/PL) 
-- [Data Communication (Shafa)](https://github.com/Claudia54/Shafa)
 - [Program Calculation ](https://github.com/Claudia54/CP)
 - [Object-Oriented Programming](https://github.com/Claudia54/Object-Oriented-Programming) 
   
