@@ -30,7 +30,7 @@ Here are some of the key projects I worked on during my Bachelor's degree:
 - [Cloud Computing Applications and Services](https://github.com/Claudia54/ASCN-Grupo16) 
 - [Machine Learning](https://github.com/Claudia54/MachineLearning) 
 - [RASBET](https://github.com/Claudia54/RASBET)
-- [SocialHub](https://github.com/Claudia54/SocialHub)
+
 
 ## Skills and Technologies
 
